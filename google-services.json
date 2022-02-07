@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082017142110",
+    "project_id": "doctor-3afc9",
+    "storage_bucket": "doctor-3afc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082017142110:android:6f0832acce28004bc9abcf",
+        "android_client_info": {
+          "package_name": "za.co.nativesounds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082017142110-k81mchuqecncu702isklld8ri4k1a1f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoqA8Sgr_wOAooLOcA_ZrHDPZ9DwQ-Q-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082017142110-k81mchuqecncu702isklld8ri4k1a1f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
